@@ -15,15 +15,17 @@ Esses aprendizados não somente acrescentaram meu conhecimento técnico, mas tam
 
 ## imagens 
 ### Organização de pastas
-
-
+<img src="./Assets/Prova4.jpeg"></img>
 
 ### Código em execução
 A primeira página, inicial após rodar o código, na porta 4200
 
-
+<img src="./Assets/Prova1.jpeg"></img>
 
 Depois do preenchimento com dados, pronto para envio
 
+<img src="./Assets/Prova2.jpeg"></img>
 
 Depois de confirmado o envio, os dados que foram enviados pelo dynamic forms
+
+<img src="./Assets/Prova3.jpeg"></img>
